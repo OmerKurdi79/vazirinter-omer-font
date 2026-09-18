@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'VazirInter Omer';
+  src: url('VazirInter-Omer.woff2') format('woff2'),
+       url('VazirInter-Omer.woff') format('woff'),
+       url('VazirInter-Omer.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
