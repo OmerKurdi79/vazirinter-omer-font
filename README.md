@@ -2,7 +2,6 @@
 
 A modern, high-legibility hybrid font engineered for seamless optical balance between **Kurdish Sorani**, **Arabic**, and **English**.
 
-![VazirInter Omer Preview](preview.svg)
 
 Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurdi79/vazir-inter/releases).
 
