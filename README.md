@@ -6,7 +6,7 @@ A modern, high-legibility hybrid font engineered for seamless optical balance be
   <img src="preview.png" alt="VazirInter Omer Preview" width="600"/>
 </p>
 
-Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurdi79/vazir-inter/releases).
+Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases).
 
 ---
 
@@ -19,7 +19,7 @@ Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurd
 - **Web Formats**: Includes `.woff2`, `.woff`, `.ttf`, and `style.css` for instant website embedding.
 
 ### Download
-Grab `VazirInter-Omer.ttf`, `.woff2`, or `.woff` from the [Releases](https://github.com/OmerKurdi79/vazir-inter/releases) page.
+Grab `VazirInter-Omer.ttf`, `.woff2`, or `.woff` from the [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases) page.
 
 ---
 
@@ -32,7 +32,7 @@ Grab `VazirInter-Omer.ttf`, `.woff2`, or `.woff` from the [Releases](https://git
 - **فۆرماتی وێب**: فایلەکانی `.woff2` و `.woff` ئامادەکراون بۆ بەکارهێنان لە ماڵپەڕەکان.
 
 ### داگرتن
-فایلەکانی فۆنتەکە لە بەشی [Releases](https://github.com/OmerKurdi79/vazir-inter/releases) بەردەستە بۆ داگرتن.
+فایلەکانی فۆنتەکە لە بەشی [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases) بەردەستە بۆ داگرتن.
 
 ---
 
