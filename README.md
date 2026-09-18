@@ -1,35 +1,37 @@
-# VazirInter
+# VazirInter Omer
 
-> **VazirInter** is a hybrid typography project engineered by **Omer**, merging the airy elegance of **Vazirmatn** with the precision of **Inter** to achieve flawless optical harmony across Kurdish Sorani, Arabic, and English.
+A modern, high-legibility hybrid font engineered for seamless balance between **Kurdish Sorani**, **Arabic**, and **English**.
+
+Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurdi79/vazir-inter/releases).
 
 ---
 
 ## English
 
-### Overview
-Most multi-language fonts treat Arabic or Kurdish as an afterthought, resulting in tiny Middle-Eastern scripts alongside oversized Latin letters. **VazirInter** solves this with custom vector scaling:
-- **Kurdish & Arabic**: Based on **Vazirmatn** (boosted +8% optically) with 100% native Kurdish Sorani ligatures (`ڕ`, `ڵ`, `ۆ`, `ێ`, `ە`).
-- **English / Latin**: Powered by **Inter** (scaled 1.14x) for an Apple SF Pro aesthetic.
-- **Harmony**: Unified baseline, open tracking, and zero letter collisions.
+### Highlights
+- **Kurdish Sorani & Arabic**: Built on **Vazirmatn** with complete, unbroken native ligatures (`ڕ`, `ڵ`, `ۆ`, `ێ`, `ە`).
+- **English / Latin**: Powered by **Inter** (SF Pro aesthetic) with balanced letter spacing.
+- **Optical Scale**: Custom vector geometry ensuring English and Arabic/Kurdish appear at natural, equivalent optical proportions.
 
-### Installation
-- **Android / Modded Apps (X/Twitter, Telegram, etc.)**: Select `VazirInter-Regular.ttf` in your custom font settings.
-- **Honor / Huawei MagicOS**: Apply the bundled `.hwt` theme.
+### Download & Use
+Grab the latest release file `VazirInter-Omer.ttf` from the [Releases tab](https://github.com/OmerKurdi79/vazir-inter/releases). Compatible with desktop OS, mobile systems, websites, and custom-font applications.
 
 ---
 
 ## کوردی سۆرانی (Kurdish Sorani)
 
-### دەربارەی پڕۆژەکە
-**ڤەزیرئینتەر (VazirInter)** فۆنتێکی دەستکاریکراوە لەلایەن **عومەر** بۆ چارەسەرکردنی کێشەی نەگونجانی قەبارەی نێوان پیتە کوردی/عەرەبییەکان و زمانی ئینگلیزی:
-- **پیتە کوردی و عەرەبییەکان**: لەسەر بنەمای فۆنتی سەردەمییانەی **Vazirmatn** دامەزراوە بە بەستنەوەی تەواوی پیتە تایبەتەکانی زمانی کوردی (ڕ، ڵ، ۆ، ێ، ە).
-- **ئینگلیزی**: بەکارهێنانی فۆنتی بەناوبانگی **Inter** (بە ستایلی فۆنتی ئەپڵ SF Pro).
-- **هاوسەنگی**: هاوتاکردنی قەبارەی بینراوی هەردوو زمان لە پۆست و ڕیزبەندییەکان بەبێ تێکچوونی دێڕەکان.
+### تایبەتمەندییەکان
+- **کوردی و عەرەبی**: لەسەر بنەمای **Vazirmatn** بە بەستنەوەی بێ کێشەی سەرجەم پیتە کوردییەکان (ڕ، ڵ، ۆ، ێ، ە).
+- **ئینگلیزی**: بەکارهێنانی فۆنتی مۆدێرنی **Inter** بە ڕوونییەکی بەرز و بۆشایی گونجاوی پیتەکان.
+- **هاوسەنگی**: قەبارەی بینراوی هەردوو زمان لە پۆست و دەقەکاندا تەواو هاوتا و یەکسان کراوە.
+
+### داگرتن
+نوێترین فایلی فۆنتەکە `VazirInter-Omer.ttf` لە بەشی [Releases](https://github.com/OmerKurdi79/vazir-inter/releases) بەردەستە بۆ داگرتن بۆ مۆبایل، کۆمپیوتەر و بەرنامەکان.
 
 ---
 
-## Credits & License
-Licensed under the [SIL Open Font License (OFL)](LICENSE).
-- **Vazirmatn**: Created by Saber RastiKerdar.
-- **Inter**: Created by Rasmus Andersson.
-- **VazirInter Optimization**: Omer.
+## Keywords & Search Index
+Kurdish font, Sorani font, Arabic typography, Vazirmatn hybrid, Inter font, custom TTF font, best font for Kurdish, mobile font, clean Arabic font, فۆنتی کوردی, فۆنت بۆ ئەندرۆید.
+
+## License
+Licensed under the [SIL Open Font License 1.1](LICENSE).
