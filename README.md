@@ -1,6 +1,6 @@
 # VazirInter Omer
 
-A modern, high-legibility hybrid font engineered for seamless optical balance between **Kurdish Sorani**, **Arabic**, and **English**.
+A modern, high-legibility hybrid font family engineered for seamless optical balance between **Kurdish** (Sorani & Kurmanji), **Arabic**, **Persian**, and **100+ Latin-based languages** worldwide.
 
 <p align="center">
   <img src="preview.png" alt="VazirInter Omer Preview" width="600"/>
@@ -13,23 +13,42 @@ Download ready-to-use fonts directly from [Releases](https://github.com/OmerKurd
 ## English
 
 ### Highlights
+- **Full Font Family**: Available in three distinct weights — **Regular** (400), **Light** (300), and **Thin** (200).
 - **Kurdish Sorani & Arabic**: Built on **Vazirmatn** with complete, unbroken native ligatures (`ڕ`, `ڵ`, `ۆ`, `ێ`, `ە`).
-- **English / Latin**: Powered by **Inter** (SF Pro aesthetic) with balanced letter spacing.
-- **Optical Scale**: Custom vector geometry ensuring English and Arabic/Kurdish appear at natural, equivalent optical proportions.
-- **Web Formats**: Includes `.woff2`, `.woff`, `.ttf`, and `style.css` for instant website embedding.
+- **Universal Latin & English**: Powered by **Inter** (SF Pro aesthetic) with complete coverage for 100+ languages including English, Turkish (`ğ`, `ı`, `ş`), Kurdish Kurmanji (`ç`, `ê`, `î`, `ş`, `û`), and European accents.
+- **2,180+ Glyphs**: Comprehensive character set ensuring no missing glyphs or broken text across Middle Eastern and Latin scripts.
+- **Optical Scale**: Custom vector geometry ensuring Latin and Arabic/Kurdish appear at equivalent optical proportions and aligned capital/digit heights.
+- **Web Formats**: Includes ready-to-use `.woff2`, `.woff`, `.ttf`, and `style.css` for instant website embedding.
 
 ### Download
-Grab `VazirInter-Omer.ttf`, `.woff2`, or `.woff` from the [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases) page.
+Grab the latest `.ttf`, `.woff2`, or `.woff` files from the [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases) page.
+
+### Web Usage
+Link `style.css` in your HTML:
+```html
+<link rel="stylesheet" href="style.css">
+```
+Use any weight in CSS:
+```css
+body {
+  font-family: 'VazirInter Omer', sans-serif;
+  font-weight: 400; /* Regular */
+  /* font-weight: 300; Light */
+  /* font-weight: 200; Thin */
+}
+```
 
 ---
 
 ## کوردی سۆرانی (Kurdish Sorani)
 
 ### تایبەتمەندییەکان
+- **خێزانی تەواوی فۆنت**: بە سێ کێشی جیاواز بەردەستە — **ئاسایی (Regular)**، **تەنک (Light)**، و **زۆر تەنک (Thin)**.
 - **کوردی و عەرەبی**: لەسەر بنەمای **Vazirmatn** بە بەستنەوەی بێ کێشەی سەرجەم پیتە کوردییەکان (ڕ، ڵ، ۆ، ێ، ە).
-- **ئینگلیزی**: بەکارهێنانی فۆنتی مۆدێرنی **Inter** بە ڕوونییەکی بەرز و بۆشایی گونجاوی پیتەکان.
-- **هاوسەنگی**: قەبارەی بینراوی هەردوو زمان لە پۆست و دەقەکاندا تەواو هاوتا و یەکسان کراوە.
-- **فۆرماتی وێب**: فایلەکانی `.woff2` و `.woff` ئامادەکراون بۆ بەکارهێنان لە ماڵپەڕەکان.
+- **ئینگلیزی و زمانە لاتینییەکان**: بەکارهێنانی فۆنتی مۆدێرنی **Inter** بە ڕوونییەکی بەرز و بۆشایی گونجاوی پیتەکان، بە پشتگیری زیاتر لە ١٠٠ زمانی جیهانی (لەوانە کوردیی کرمانجی، تورکی، و ئەوروپی).
+- **زیاتر لە ٢،١٨٠ پیت و هێما**: پڕکراوە لە هەموو پیتە تایبەت و بزوێنەکان بۆ پیشاندانی بێ کێشە لە هەموو سیستمەکاندا.
+- **هاوسەنگی بینراو**: قەبارەی بینراوی هەردوو زمان لە پۆست و دەقەکاندا تەواو هاوتا و یەکسان کراوە.
+- **فۆرماتی وێب**: فایلەکانی `.woff2` و `.woff` و `style.css` ئامادەکراون بۆ بەکارهێنان لە ماڵپەڕەکان بە هەرسێ کێش.
 
 ### داگرتن
 فایلەکانی فۆنتەکە لە بەشی [Releases](https://github.com/OmerKurdi79/vazirinter-omer-font/releases) بەردەستە بۆ داگرتن.

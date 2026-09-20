@@ -1,6 +1,37 @@
+/* ==========================================================================
+   VazirInter Omer Font Family
+   Weights: Thin (200), Light (300), Regular (400)
+   ========================================================================== */
+
+/* Thin (200) */
 @font-face {
   font-family: 'VazirInter Omer';
-  src: url('VazirInter-Omer.woff2') format('woff2'),
+  src: url('VazirInter-Omer-Thin.woff2') format('woff2'),
+       url('VazirInter-Omer-Thin.woff') format('woff'),
+       url('VazirInter-Omer-Thin.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Light (300) */
+@font-face {
+  font-family: 'VazirInter Omer';
+  src: url('VazirInter-Omer-Light.woff2') format('woff2'),
+       url('VazirInter-Omer-Light.woff') format('woff'),
+       url('VazirInter-Omer-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular (400) */
+@font-face {
+  font-family: 'VazirInter Omer';
+  src: url('VazirInter-Omer-Regular.woff2') format('woff2'),
+       url('VazirInter-Omer-Regular.woff') format('woff'),
+       url('VazirInter-Omer-Regular.ttf') format('truetype'),
+       url('VazirInter-Omer.woff2') format('woff2'),
        url('VazirInter-Omer.woff') format('woff'),
        url('VazirInter-Omer.ttf') format('truetype');
   font-weight: 400;
