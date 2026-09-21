@@ -1,6 +1,6 @@
 /* ==========================================================================
    VazirInter Omer Font Family
-   Weights: Thin (200), Light (300), Regular (400)
+   Weights: Thin (200), Light (300), Regular (400), Bold (700)
    ========================================================================== */
 
 /* Thin (200) */
@@ -35,6 +35,17 @@
        url('VazirInter-Omer.woff') format('woff'),
        url('VazirInter-Omer.ttf') format('truetype');
   font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold (700) */
+@font-face {
+  font-family: 'VazirInter Omer';
+  src: url('VazirInter-Omer-Bold.woff2') format('woff2'),
+       url('VazirInter-Omer-Bold.woff') format('woff'),
+       url('VazirInter-Omer-Bold.ttf') format('truetype');
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
